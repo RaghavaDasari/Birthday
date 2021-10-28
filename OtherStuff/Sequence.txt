@@ -1,0 +1,11 @@
+Given Encoded Text -> "aHR0cHM6Ly9yYWdoYXZhZGFzYXJpLmdpdGh1Yi5pby9CaXJ0aGRheS8=" -> 1
+
+Your travel to destination "Nowhere" starts now. go to -> https://www.base64decode.org/ -> 2
+
+use American Standard Code for Information Interchange not Universal Text Interchange Format ->3
+
+Try to Decode the given encoded text ->4
+
+If decoded then you will know what to do, do whatever you can to get the destination "Nowhere" -> 5
+
+Code -> 21435
